@@ -20,3 +20,5 @@ directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
 and submit a PR to that repository.
+
+Upstream release note 2026-08-07b.
