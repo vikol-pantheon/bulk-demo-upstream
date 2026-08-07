@@ -1,4 +1,4 @@
-# Composer-enabled Drupal template
+# Drupal Composer Managed Upstream (release 2026-08-07c)
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
 that work with the Platform's Integrated Composer build process. It is also the
