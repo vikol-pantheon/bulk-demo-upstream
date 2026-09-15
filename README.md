@@ -1,4 +1,4 @@
-# Drupal Composer Managed Upstream (release 2026-08-07c)
+# Drupal Composer Managed Upstream (upstream edit for DEVX-7463 conflict test)
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
 that work with the Platform's Integrated Composer build process. It is also the
